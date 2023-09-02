@@ -15,9 +15,9 @@ A simple text editor with PWA functionality.
 
 ## Links
 
-Repo: [https://github.com/ghaworth1/pop-quiz/tree/master](https://github.com/ghaworth1/pwa-homework/tree/main)
+[GitHub Repo}(https://github.com/ghaworth1/pwa-homework/tree/main)
 
-Heroku: https://pwa-homework-gh-fa21c3b95a7f.herokuapp.com/
+[Heroku](https://pwa-homework-gh-fa21c3b95a7f.herokuapp.com/)
 
 
 ## License
